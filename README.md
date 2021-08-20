@@ -1,9 +1,10 @@
 # Image-Editor-Project
 ## Introduction :
 ### It is a simple web application to add effects, filters and edit an image.
+- **[Here is the application]()**
 ## Features : 
 1. Filters like **GrayScale, Dark, Bright**.etc
-2. Effects like **Blur, **Emboss**, **Sharp**.etc
+2. Effects like **Blur, Emboss, Sharp**.etc
 3. **Crop and Rotate Images**.
 
 ## Advantages : 
