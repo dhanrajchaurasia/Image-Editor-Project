@@ -1,2 +1,15 @@
-# Photo-Editor-Project
-It is a web application, will be used to add effects on an image.
+# Image-Editor-Project
+## Introduction :
+### It is a simple web application to add effects, filters and edit an image.
+## Features : 
+1. Filters like **GrayScale, Dark, Bright**.etc
+2. Effects like **Blur, **Emboss**, **Sharp**.etc
+3. **Crop and Rotate Images**.
+
+## Advantages : 
+- No need of any cloud storage.
+- Quick editor
+
+## Disadvantages :
+- Less features
+
