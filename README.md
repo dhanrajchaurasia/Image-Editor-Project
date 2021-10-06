@@ -6,11 +6,11 @@
 ### You can find the application **[here](https://dhanrajchaurasia.github.io/Image-Editor-Project/).**
 
 
-## :stars2: Features : 
+## :star2: Features : 
 1. Filters like **GrayScale, Dark, Bright**.etc
 2. Effects like **Blur, Emboss, Sharp**.etc
 
-## :bulb: TechStacks Used : 
+## :star2: TechStacks Used : 
 - Html5
 - CSS3
 - JavaScript 
